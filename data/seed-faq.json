@@ -1,0 +1,122 @@
+{
+  "categorias": [
+    "Produtos",
+    "Onde encontrar",
+    "Pedidos",
+    "Receitas",
+    "Nutrição",
+    "Contato"
+  ],
+  "items": [
+    {
+      "categoria": "Produtos",
+      "pergunta": "Quais produtos a Valle Branco oferece?",
+      "resposta": "O portfólio inclui arroz (branco, integral, parboilizado e arbório), feijão (carioca, preto e bolinha), palmito de pupunha e queijo ralado, nas marcas Valle Branco, Castelão, Aene e Vita. Veja o catálogo completo na página de Produtos."
+    },
+    {
+      "categoria": "Produtos",
+      "pergunta": "Qual a diferença entre as marcas Valle Branco, Castelão, Aene e Vita?",
+      "resposta": "São linhas do mesmo grupo, com posicionamentos distintos de embalagem e público. Valle Branco concentra o portfólio premium e especialidades; Castelão, Aene e Vita ampliam opções de arroz e feijão no varejo. Todas seguem controle de qualidade da Cerealista Nardo."
+    },
+    {
+      "categoria": "Produtos",
+      "pergunta": "Como escolher feijão de qualidade no mercado?",
+      "resposta": "Prefira grãos uniformes, embalagem íntegra, validade visível e marca com controle de qualidade. O feijão tipo 1 indica seleção com menos grãos quebrados e melhor rendimento. Lave em água corrente e deixe de molho antes de cozinhar."
+    },
+    {
+      "categoria": "Produtos",
+      "pergunta": "Como armazenar arroz e feijão depois de abrir o pacote?",
+      "resposta": "Transfira para recipiente hermético, em local fresco, seco e longe do sol. Evite misturar lotes diferentes e não use colher molhada dentro do pote. Em boas condições, os grãos secos mantêm qualidade por vários meses. Observe cheiro e aparência."
+    },
+    {
+      "categoria": "Produtos",
+      "pergunta": "Posso usar palmito Valle Branco em saladas e pratos quentes?",
+      "resposta": "Sim. O palmito de pupunha (inteiro, em rodelas ou picado) serve em saladas frias, risotos, omeletes e recheios. Em preparos quentes, acrescente nos minutos finais para manter a textura. Sempre escorra bem antes de usar."
+    },
+    {
+      "categoria": "Onde encontrar",
+      "pergunta": "Onde comprar produtos Valle Branco?",
+      "resposta": "Use a página Onde Encontrar do site para localizar supermercados e pontos de venda próximos, com mapa interativo e busca por cidade ou CEP. Se não achar na sua região, fale com o comercial para indicar revendedores."
+    },
+    {
+      "categoria": "Onde encontrar",
+      "pergunta": "Como funciona o mapa de pontos de venda?",
+      "resposta": "O mapa mostra estabelecimentos que comercializam produtos Valle Branco. Você pode filtrar por cidade, produto ou localização. Os dados são atualizados a partir das notas fiscais e da rede de clientes da empresa."
+    },
+    {
+      "categoria": "Onde encontrar",
+      "pergunta": "Não achei o produto no meu supermercado. O que fazer?",
+      "resposta": "Confirme no mapa se o ponto faz parte da rede. Se não aparecer, peça ao gerente da loja ou escreva para comercial@vallebranco.com.br informando cidade e produto de interesse. Também dá para solicitar indicação de revendedor pelo WhatsApp."
+    },
+    {
+      "categoria": "Onde encontrar",
+      "pergunta": "A Valle Branco entrega em todo o Brasil?",
+      "resposta": "A distribuição prioriza São Paulo e Norte do Paraná, com expansão conforme a rede de clientes. Consulte o mapa Onde Encontrar ou o time comercial para verificar cobertura na sua cidade."
+    },
+    {
+      "categoria": "Pedidos",
+      "pergunta": "Como fazer um pedido ou virar revendedor?",
+      "resposta": "Entre em contato com o comercial pelo e-mail comercial@vallebranco.com.br ou pelo formulário Falar com revendedor na página de Produtos. Informe cidade, tipo de negócio e produtos de interesse para receber retorno da equipe."
+    },
+    {
+      "categoria": "Pedidos",
+      "pergunta": "Onde baixo o catálogo completo de produtos?",
+      "resposta": "Na página de Produtos há o botão para baixar o catálogo em PDF, com fichas técnicas, embalagens e informações das linhas Valle Branco, Castelão, Aene e Vita."
+    },
+    {
+      "categoria": "Pedidos",
+      "pergunta": "Qual o pedido mínimo para compra?",
+      "resposta": "As condições comerciais (pedido mínimo, frete e prazos) variam conforme região e perfil do cliente. O time comercial informa os detalhes após o primeiro contato."
+    },
+    {
+      "categoria": "Pedidos",
+      "pergunta": "Consumidor final pode comprar direto da fábrica?",
+      "resposta": "A Valle Branco atende principalmente o varejo e atacado. Consumidores encontram os produtos nos pontos de venda do mapa. Para dúvidas de consumidor, use o SAC em sac@vallebranco.com.br."
+    },
+    {
+      "categoria": "Receitas",
+      "pergunta": "Onde encontro receitas com produtos Valle Branco?",
+      "resposta": "Na página Artigos e Receitas você encontra preparos com arroz, feijão, palmito e queijo ralado, com ingredientes, modo de preparo, tempo estimado e dicas para o dia a dia."
+    },
+    {
+      "categoria": "Receitas",
+      "pergunta": "As receitas Valle Branco servem para o dia a dia?",
+      "resposta": "Sim. Priorizamos ingredientes acessíveis, tempos realistas e técnicas simples para almoço, jantar e marmitas, com os mesmos produtos disponíveis no supermercado."
+    },
+    {
+      "categoria": "Receitas",
+      "pergunta": "Posso adaptar as receitas com outros produtos da marca?",
+      "resposta": "Sim. O risoto aceita palmito inteiro ou em rodelas; o tropeiro funciona com feijão carioca ou preto; o arroz de forno pode levar queijo ralado Valle Branco e sobras de arroz. Ajuste tempos e texturas conforme a variação."
+    },
+    {
+      "categoria": "Nutrição",
+      "pergunta": "Arroz e feijão formam uma refeição nutritiva?",
+      "resposta": "Sim. Juntos, oferecem carboidratos, proteínas vegetais e fibras, a base clássica do prato feito brasileiro. Complete com legumes, uma proteína magra e hidratação."
+    },
+    {
+      "categoria": "Nutrição",
+      "pergunta": "O arroz integral Valle Branco é mais nutritivo que o branco?",
+      "resposta": "O integral conserva mais fibras e nutrientes da camada externa do grão, favorecendo saciedade e variedade na dieta. O tempo de cozimento é um pouco maior e a textura fica mais firme."
+    },
+    {
+      "categoria": "Nutrição",
+      "pergunta": "Como montar um prato equilibrado em casa?",
+      "resposta": "Comece pelos legumes ou pela salada, adicione arroz Valle Branco, uma concha de feijão, uma proteína magra e, se quiser, palmito ou queijo ralado com moderação. Cozinhar feijão em quantidade e congelar porções ajuda na rotina."
+    },
+    {
+      "categoria": "Contato",
+      "pergunta": "Quais canais de contato a Valle Branco oferece?",
+      "resposta": "Você pode usar atendimento@vallebranco.com.br (geral), comercial@vallebranco.com.br (pedidos e revenda), sac@vallebranco.com.br (consumidor), imprensa@vallebranco.com.br (mídia) e rh@vallebranco.com.br (vagas). Também há telefone, WhatsApp e redes sociais."
+    },
+    {
+      "categoria": "Contato",
+      "pergunta": "Como falar sobre qualidade ou reclamação de produto?",
+      "resposta": "Envie mensagem para sac@vallebranco.com.br com lote, validade, foto da embalagem e descrição do ocorrido. Isso agiliza a análise pelo time de atendimento ao consumidor."
+    },
+    {
+      "categoria": "Contato",
+      "pergunta": "Onde fica a sede da Valle Branco?",
+      "resposta": "A fábrica fica em Santa Cruz do Rio Pardo/SP, na Rod. Eng. João Batista Cabral Rennó, Km 319,5, CEP 18900-492. O endereço completo e o mapa estão no rodapé do site."
+    }
+  ]
+}
