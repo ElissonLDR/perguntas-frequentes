@@ -95,10 +95,17 @@ class PF_Frontend {
 				$cat_slug = $terms[0]->slug;
 			}
 
+			$resposta = apply_filters( 'the_content', $post->post_content );
+			$resposta = preg_replace(
+				'/([a-zA-Z0-9._%+\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,})/',
+				'<strong>$1</strong>',
+				$resposta
+			);
+
 			$items[] = array(
 				'id'       => (int) $post->ID,
 				'pergunta' => get_the_title( $post ),
-				'resposta' => apply_filters( 'the_content', $post->post_content ),
+				'resposta' => is_string( $resposta ) ? $resposta : apply_filters( 'the_content', $post->post_content ),
 				'resposta_plain' => wp_strip_all_tags( $post->post_content ),
 				'categoria'=> $cat_name,
 				'cat_slug' => $cat_slug,

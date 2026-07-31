@@ -3,7 +3,7 @@
  * Plugin Name:       Perguntas Frequentes
  * Plugin URI:        https://github.com/ElissonLDR/perguntas-frequentes
  * Description:       Gerencie FAQs com categorias, busca e acordeão. Shortcode e widget Elementor.
- * Version:           1.0.3
+ * Version:           1.0.4
  * Requires at least: 6.0
  * Requires PHP:      7.4
  * Author:            ElissonLDR
@@ -18,7 +18,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-define( 'PF_FAQ_VERSION', '1.0.3' );
+define( 'PF_FAQ_VERSION', '1.0.4' );
 define( 'PF_FAQ_FILE', __FILE__ );
 define( 'PF_FAQ_PATH', plugin_dir_path( __FILE__ ) );
 define( 'PF_FAQ_URL', plugin_dir_url( __FILE__ ) );
