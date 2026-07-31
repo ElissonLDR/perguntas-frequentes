@@ -266,6 +266,11 @@
 	color: var(--pf-muted);
 }
 
+.pf-faq__answer strong {
+	font-weight: 700;
+	color: var(--pf-brand, #0a3c6b);
+}
+
 .pf-faq__answer p {
 	margin: 0 0 0.75rem;
 }
