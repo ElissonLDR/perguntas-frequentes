@@ -36,7 +36,7 @@
     {
       "categoria": "Onde encontrar",
       "pergunta": "Onde comprar produtos Valle Branco?",
-      "resposta": "Use a página Onde Encontrar do site para localizar supermercados e pontos de venda próximos, com mapa interativo e busca por cidade ou CEP. Se não achar na sua região, fale com o comercial para indicar revendedores."
+      "resposta": "Use a página Onde Encontrar do site para localizar supermercados e pontos de venda próximos, com mapa interativo e busca por cidade ou CEP. Se não achar na sua região, escreva para atendimento@vallebranco.com.br para indicar revendedores."
     },
     {
       "categoria": "Onde encontrar",
@@ -46,7 +46,7 @@
     {
       "categoria": "Onde encontrar",
       "pergunta": "Não achei o produto no meu supermercado. O que fazer?",
-      "resposta": "Confirme no mapa se o ponto faz parte da rede. Se não aparecer, peça ao gerente da loja ou escreva para comercial@vallebranco.com.br informando cidade e produto de interesse. Também dá para solicitar indicação de revendedor pelo WhatsApp."
+      "resposta": "Confirme no mapa se o ponto faz parte da rede. Se não aparecer, peça ao gerente da loja ou escreva para atendimento@vallebranco.com.br informando cidade e produto de interesse. Também dá para solicitar indicação de revendedor pelo WhatsApp."
     },
     {
       "categoria": "Onde encontrar",
@@ -56,7 +56,7 @@
     {
       "categoria": "Pedidos",
       "pergunta": "Como fazer um pedido ou virar revendedor?",
-      "resposta": "Entre em contato com o comercial pelo e-mail comercial@vallebranco.com.br ou pelo formulário Falar com revendedor na página de Produtos. Informe cidade, tipo de negócio e produtos de interesse para receber retorno da equipe."
+      "resposta": "Entre em contato pelo e-mail atendimento@vallebranco.com.br ou pelo formulário Falar com revendedor na página de Produtos. Informe cidade, tipo de negócio e produtos de interesse para receber retorno da equipe."
     },
     {
       "categoria": "Pedidos",
@@ -71,7 +71,7 @@
     {
       "categoria": "Pedidos",
       "pergunta": "Consumidor final pode comprar direto da fábrica?",
-      "resposta": "A Valle Branco atende principalmente o varejo e atacado. Consumidores encontram os produtos nos pontos de venda do mapa. Para dúvidas de consumidor, use o SAC em sac@vallebranco.com.br."
+      "resposta": "A Valle Branco atende principalmente o varejo e atacado. Consumidores encontram os produtos nos pontos de venda do mapa. Para dúvidas de consumidor, escreva para atendimento@vallebranco.com.br."
     },
     {
       "categoria": "Receitas",
@@ -101,17 +101,17 @@
     {
       "categoria": "Nutrição",
       "pergunta": "Como montar um prato equilibrado em casa?",
-      "resposta": "Comece pelos legumes ou pela salada, adicione arroz Valle Branco, uma concha de feijão, uma proteína magra e, se quiser, palmito ou queijo ralado com moderação. Cozinhar feijão em quantidade e congelar porções ajuda na rotina."
+      "resposta": "Comece pelos legumes ou pela salada, adicione arroz Valle Branco, uma concha de feijão Valle Branco, uma proteína magra e, se quiser, palmito ou queijo ralado. Cozinhar feijão em quantidade e congelar porções ajuda na rotina."
     },
     {
       "categoria": "Contato",
       "pergunta": "Quais canais de contato a Valle Branco oferece?",
-      "resposta": "Você pode usar atendimento@vallebranco.com.br (geral), comercial@vallebranco.com.br (pedidos e revenda), sac@vallebranco.com.br (consumidor), imprensa@vallebranco.com.br (mídia) e rh@vallebranco.com.br (vagas). Também há telefone, WhatsApp e redes sociais."
+      "resposta": "Você pode usar atendimento@vallebranco.com.br (dúvidas, pedidos, SAC e mídia) e rh@vallebranco.com.br (vagas). Também há telefone, WhatsApp e redes sociais."
     },
     {
       "categoria": "Contato",
       "pergunta": "Como falar sobre qualidade ou reclamação de produto?",
-      "resposta": "Envie mensagem para sac@vallebranco.com.br com lote, validade, foto da embalagem e descrição do ocorrido. Isso agiliza a análise pelo time de atendimento ao consumidor."
+      "resposta": "Envie mensagem para atendimento@vallebranco.com.br com lote, validade, foto da embalagem e descrição do ocorrido. Isso agiliza a análise pelo time de atendimento ao consumidor."
     },
     {
       "categoria": "Contato",
