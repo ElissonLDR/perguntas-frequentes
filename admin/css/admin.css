@@ -1,3 +1,36 @@
+/* FAQ admin — padrão Valle Branco */
+.pf-faq-admin {
+	--pf-brand: #0a3c6b;
+	--pf-brand-soft: #e8eef5;
+	--pf-cream: #faf8f4;
+	--pf-line: #e2e4e8;
+	--pf-muted: #646970;
+}
+
 .pf-faq-admin-hint {
 	margin: 8px 0 12px;
+	padding: 12px 14px;
+	max-width: 52rem;
+	background: linear-gradient(135deg, var(--pf-cream, #faf8f4) 0%, #fff 70%);
+	border: 1px solid var(--pf-line, #e2e4e8);
+	border-radius: 12px;
+	color: var(--pf-muted, #646970);
+	font-size: 13px;
+	line-height: 1.5;
+}
+
+.pf-faq-admin .button-primary,
+.post-type-pf_faq .button-primary {
+	background: #0a3c6b !important;
+	border-color: #0a3c6b !important;
+	box-shadow: none !important;
+	text-shadow: none !important;
+}
+
+.pf-faq-admin .button-primary:hover,
+.pf-faq-admin .button-primary:focus,
+.post-type-pf_faq .button-primary:hover,
+.post-type-pf_faq .button-primary:focus {
+	background: #072a4d !important;
+	border-color: #072a4d !important;
 }
